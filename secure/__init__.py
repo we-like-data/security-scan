@@ -1,0 +1,1 @@
+SECRET = r"p2xsK15f#x#4gFy5KE3s@!J85g$IMQ7F"
